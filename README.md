@@ -1,5 +1,7 @@
 # SeikoMods
-Guide for newbie modders 
+Guide for newbie modders
+
+Which models are more common in the modding community or easier to mod
 
 Straps
 
